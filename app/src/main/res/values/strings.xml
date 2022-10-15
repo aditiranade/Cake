@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string name="back_button">Back</string>
+    <string name="start">Start</string>
+    <string name="recipe">Step One</string>
+    <string name="recipe_1">Step Two</string>
+    <string name="recipe_2">Step Three</string>
+    <string name="recipe_3">Step Four</string>
+    <string name="calorie_count">Calories</string>
+    <string name="enjoy">Enjoy</string>
+    <string name="cake">Cakes</string>
+    <string name="next">Next</string>
+    <string name="back_to_start">Bake A Cake Again</string>
+    <string name="cake_zero">Lets Bake a Cake</string>
+    <string name="calories_consumed">Total number of Calories in one cake: </string>
+
+    <string name="cake_zero_content_description">cake_zero</string>
+
+
+    <string name="cake_first">Combine together dry elements- All purpose flour, soda and powdered sugar\n Calories consumed are: </string>
+    <string name="cake_first_content_description">cake_first</string>
+
+    <string name="cake_second_content_description">cake_second</string>
+    <string name="cake_second">Combine dry ingredients with beaten eggs, chocolate and butter\n Calories consumed are: </string>
+
+    <string name="cake_third">Grease the baking tin and bake the cake at 180 degrees for 35 min</string>
+    <string name="chocolate_content_description">cake_third</string>
+
+    <string name="cake_fourth">Use whipping cream and drizzle caramel\n Calories consumed are: </string>
+    <string name="cake_glass_content_description">cake_fourth</string>
+
+    <string name="thank_you">Hope You Enjoyed The Recipe</string>
+    <string name="cake_thank_you_content_description"></string>
+
+</resources>
